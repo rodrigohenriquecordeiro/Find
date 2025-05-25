@@ -1,0 +1,14 @@
+C:\Faculdade\OneDrive\Projetos\Find\Find\bin\Debug\net8.0\Find.exe
+C:\Faculdade\OneDrive\Projetos\Find\Find\bin\Debug\net8.0\Find.deps.json
+C:\Faculdade\OneDrive\Projetos\Find\Find\bin\Debug\net8.0\Find.runtimeconfig.json
+C:\Faculdade\OneDrive\Projetos\Find\Find\bin\Debug\net8.0\Find.dll
+C:\Faculdade\OneDrive\Projetos\Find\Find\bin\Debug\net8.0\Find.pdb
+C:\Faculdade\OneDrive\Projetos\Find\Find\obj\Debug\net8.0\Find.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faculdade\OneDrive\Projetos\Find\Find\obj\Debug\net8.0\Find.AssemblyInfoInputs.cache
+C:\Faculdade\OneDrive\Projetos\Find\Find\obj\Debug\net8.0\Find.AssemblyInfo.cs
+C:\Faculdade\OneDrive\Projetos\Find\Find\obj\Debug\net8.0\Find.csproj.CoreCompileInputs.cache
+C:\Faculdade\OneDrive\Projetos\Find\Find\obj\Debug\net8.0\Find.dll
+C:\Faculdade\OneDrive\Projetos\Find\Find\obj\Debug\net8.0\refint\Find.dll
+C:\Faculdade\OneDrive\Projetos\Find\Find\obj\Debug\net8.0\Find.pdb
+C:\Faculdade\OneDrive\Projetos\Find\Find\obj\Debug\net8.0\Find.genruntimeconfig.cache
+C:\Faculdade\OneDrive\Projetos\Find\Find\obj\Debug\net8.0\ref\Find.dll
